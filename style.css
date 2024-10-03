@@ -51,9 +51,9 @@ header li a {
     color: #d0cbcb;
 }
 
-hr {
+/* hr {
     opacity: 0.6;
-}
+} */
 
 .intro {
     color: #d0cbcb;
@@ -84,7 +84,6 @@ hr {
 .f-img {
     width: 220px;
     height: 220px;
-
     border: 2px solid yellow;
 }
 
